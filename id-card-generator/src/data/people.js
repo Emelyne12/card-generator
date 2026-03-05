@@ -2,23 +2,23 @@ const people = [
   {
     id: 1,
     name: "Alice Johnson",
-    role: "Software Engineer",
-    department: "Engineering",
-    avatar: "https://randomuser.me/api/portraits/women/44.jpg",
+    role: "web deveroping",
+    department: "Web Developer",
+    avatar: "https://api.dicebear.com/9.x/adventurer/svg?seed=Alice",
   },
   {
     id: 2,
-    name: "Michael Smith",
+    name: "Kevin Underson",
     role: "UI/UX Designer",
-    department: "Design",
-    avatar: "https://randomuser.me/api/portraits/men/32.jpg",
+    department: "Web Designer",
+    avatar: "https://api.dicebear.com/9.x/adventurer/svg?seed=Michael",
   },
   {
     id: 3,
-    name: "Sarah Williams",
-    role: "Project Manager",
-    department: "Management",
-    avatar: "https://randomuser.me/api/portraits/women/68.jpg",
+    name: "Chanelle Maya",
+    role: "Information Manager",
+    department: "Information Management",
+    avatar: "https://api.dicebear.com/9.x/adventurer/svg?seed=Sarah",
   },
 ];
 
